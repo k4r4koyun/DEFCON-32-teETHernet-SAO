@@ -8,3 +8,5 @@ Project repo for the teETHernet SAO addon, released for DEFCON 32. It had the fe
 - 2 ethernet sockets
 - Blinky animations + ability to test copper twisted-pair ethernet cables
 - Small CTF that can be interacted via UART, which unlocks additional blinky modes after completion
+
+![teETHernet SAO Board](https://raw.githubusercontent.com/k4r4koyun/DEFCON-32-teETHernet-SAO/refs/heads/main/teETHernet%20Board.png?raw=true)
